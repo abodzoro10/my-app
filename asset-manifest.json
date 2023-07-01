@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.6ba5220c.css",
+    "main.js": "/my-app/static/js/main.0c0b2cf6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/7460148.jpg": "/my-app/static/media/7460148.12b7969be146ed259bf6.jpg",
+    "static/media/4070822.jpg": "/my-app/static/media/4070822.e635558873ef2c1b7537.jpg",
+    "static/media/vecteezy_back-to-school-doodles-in-chalkboard-background_12086236.jpg": "/my-app/static/media/vecteezy_back-to-school-doodles-in-chalkboard-background_12086236.c4cec70aa8456580b0e0.jpg",
+    "static/media/wave (1).svg": "/my-app/static/media/wave (1).2733e92ae16187aba0e5.svg",
+    "index.html": "/my-app/index.html",
+    "main.6ba5220c.css.map": "/my-app/static/css/main.6ba5220c.css.map",
+    "main.0c0b2cf6.js.map": "/my-app/static/js/main.0c0b2cf6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba5220c.css",
+    "static/js/main.0c0b2cf6.js"
+  ]
+}
